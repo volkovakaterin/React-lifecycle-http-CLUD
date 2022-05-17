@@ -1,0 +1,29 @@
+.title{
+  display: flex;
+}
+
+.name-title{
+  margin: 0;
+}
+
+.update{
+  margin-left: 10px;
+  padding-top: 6.5px;
+  cursor: pointer;
+}
+
+.note{
+  width: 250px;
+  height: 250px;
+  border: solid 1px black;
+}
+
+.delete{
+  margin-left: 230px;
+  cursor: pointer;
+}
+
+.input{
+width: 400px;
+height: 150px;
+}
